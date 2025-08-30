@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 ---
-<a href="mailto:gyuwon12@unist.ac.kr">[E-mail]</a> <a href="https://github.com/gyuwon12">[Github]</a> <a href="/assets/cv/gyuwonpark-cv.pdf" download>[CV]</a> 
+<a href="mailto:gyuwon12@unist.ac.kr">[E-mail]</a> <a href="https://github.com/gyuwon12">[Github]</a> <a href="https://drive.google.com/file/d/1noOn-FCwwMlnnKnSRVuaH5Mi3F9yqnqr/view?usp=sharing" target="_blank">[CV]</a>
 
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
