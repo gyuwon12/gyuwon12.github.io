@@ -26,6 +26,6 @@ During my undergraduate years, I have mainly worked on projects and research rel
 Beyond technical contributions, I pursue a broader vision: tackling societal and human-centered challenges with AI. I am particularly interested in making AI systems more **human-like** in terms of perception and reasoning, and in addressing the challenges that arise from the `complexity of multi-cross modality`—for example, understanding and generating knowledge across vision-language, and other multimodal data. My goal is to explore how LMs—and AI more generally—can evolve into systems that align more closely with human values, understanding, and creativity.
 
 While my CV presents the factual record of my experiences, this page also reflects the personal motivation behind them: I am someone who wants to `chase difficult problems` in our society and contribute to solutions that matter.  
-In addition to my CV, you can also find **previous project postings** (see [projects](/projects/)) and research updates throughout this website.
+In addition to my CV, you can also find **previous project postings** (see [projects](https://gyuwon12.github.io/projects/)) and research updates throughout this website.
 
 ---
