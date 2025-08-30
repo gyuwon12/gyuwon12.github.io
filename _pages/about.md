@@ -26,14 +26,6 @@ During my undergraduate years, I have mainly worked on projects and research rel
 Beyond technical contributions, I pursue a broader vision: tackling societal and human-centered challenges with AI. I am particularly interested in making AI systems more **human-like** in terms of perception and reasoning, and in addressing the challenges that arise from the `complexity of multi-cross modality`—for example, understanding and generating knowledge across vision-language, and other multimodal data. My goal is to explore how LMs—and AI more generally—can evolve into systems that align more closely with human values, understanding, and creativity.
 
 While my CV presents the factual record of my experiences, this page also reflects the personal motivation behind them: I am someone who wants to `chase difficult problems` in our society and contribute to solutions that matter.  
-In addition to my CV, you can also find **previous project postings** (see `projects`) and research updates throughout this website, which illustrate how these motivations have shaped my work so far.
-
----
-
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In addition to my CV, you can also find **previous project postings** (see [projects](/al-folio/projects/)) and research updates throughout this website.
 
 ---
