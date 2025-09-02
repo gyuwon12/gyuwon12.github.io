@@ -453,6 +453,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-couplegpt",
+          title: 'CoupleGPT',
+          description: "(UNIST) CoupleGPT; Couple Conversion LLM Development and Research, 2024.08. ~ 2025.02",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/CoupleGPT/";
             },},{id: "projects-scripty",
           title: 'SCRIPTy',
           description: "(CJ) SCRIPTy; Development of a LLM Product for Korean Movie/Drama Content Analysis, 2023.11. ~ 2024.02",
