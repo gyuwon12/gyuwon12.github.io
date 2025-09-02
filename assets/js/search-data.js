@@ -405,11 +405,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-my-first-webpage",
-          title: 'My First Webpage.',
-          description: "",
-          section: "News",},{id: "news-have-a-good-time",
-          title: 'Have a good time.',
+            },},{id: "news-my-first-webpage-open",
+          title: 'My First Webpage Open!',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -456,6 +453,16 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-scripty",
+          title: 'SCRIPTy',
+          description: "(CJ) SCRIPTy; Development of a LLM Product for Korean Movie/Drama Content Analysis, 2023.11. ~ 2024.02",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/SCRIPTy/";
+            },},{id: "projects-neurips-llm-efficiency-challenge",
+          title: 'NeurIPS LLM Efficiency Challenge',
+          description: "(CJ) NeurIPS Large Language Model Efficiency Challenge; 1 LLM + 1GPU + 1Day, 2023.08 ~ 2023.10",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/neurips_efficiency_challenge/";
             },},{
         id: 'social-email',
         title: 'email',
