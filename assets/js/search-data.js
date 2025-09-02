@@ -455,17 +455,22 @@ ninja.data = [{
               window.location.href = "/projects/9_project/";
             },},{id: "projects-couplegpt",
           title: 'CoupleGPT',
-          description: "(UNIST) CoupleGPT; Couple Conversion LLM Development and Research, 2024.08. ~ 2025.02",
+          description: "(UNIST) CoupleGPT - Couple Conversion LLM Development and Research, 2024.08. ~ 2025.02",
           section: "Projects",handler: () => {
               window.location.href = "/projects/CoupleGPT/";
             },},{id: "projects-scripty",
           title: 'SCRIPTy',
-          description: "(CJ) SCRIPTy; Development of a LLM Product for Korean Movie/Drama Content Analysis, 2023.11. ~ 2024.02",
+          description: "(CJ) SCRIPTy - Development of a LLM Product for Korean Movie/Drama Content Analysis, 2023.11. ~ 2024.02",
           section: "Projects",handler: () => {
               window.location.href = "/projects/SCRIPTy/";
+            },},{id: "projects-yeondu-care",
+          title: 'Yeondu Care',
+          description: "Yeondu Care - 2024 Rehabilitation Chatbot Hackathon &amp; The 7th D-tech Contest, Featuring the Motivational AI Chatbot, 2024.07. ~ 2024.11",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/YeonduCare/";
             },},{id: "projects-neurips-llm-efficiency-challenge",
           title: 'NeurIPS LLM Efficiency Challenge',
-          description: "(CJ) NeurIPS Large Language Model Efficiency Challenge; 1 LLM + 1GPU + 1Day, 2023.08 ~ 2023.10",
+          description: "(CJ) NeurIPS Large Language Model Efficiency Challenge - 1 LLM + 1GPU + 1Day, 2023.08 ~ 2023.10",
           section: "Projects",handler: () => {
               window.location.href = "/projects/neurips_efficiency_challenge/";
             },},{
