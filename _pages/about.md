@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 <a href="mailto:gyuwon12@unist.ac.kr">[E-mail]</a> <a href="https://github.com/gyuwon12">[Github]</a> <a href="https://drive.google.com/file/d/1noOn-FCwwMlnnKnSRVuaH5Mi3F9yqnqr/view?usp=sharing" target="_blank">[CV]</a>
 
 
-Hello, I'm Gyuwon Park, an undergraduate student at Ulsan National Institute of Science and Technology ( **UNIST** ), majoring in Computer Science and Engineering.
+Hello, I'm Gyuwon Park, an undergraduate student at Ulsan National Institute of Science and Technology (UNIST), majoring in Computer Science and Engineering.
 
 During my undergraduate years, I have mainly worked on projects and research related to `Language Modeling (LM)`. Through these experiences, I have come to believe in the **practical power of LMs** to address diverse real-world problems. Participating in both academic research and product development, I have witnessed how language models can transform the way we understand and solve complex tasks.
 
