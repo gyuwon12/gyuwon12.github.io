@@ -1,7 +1,7 @@
 ---
 layout: page
 title: NeurIPS LLM Efficiency Challenge
-description: (CJ) NeurIPS Large Language Model Efficiency Challenge; 1 LLM + 1GPU + 1Day, 2023.08 ~ 2023.10
+description: (CJ) NeurIPS Large Language Model Efficiency Challenge - 1 LLM + 1GPU + 1Day, 2023.08 ~ 2023.10
 img: assets/img/6.jpg
 importance: 1
 category: research

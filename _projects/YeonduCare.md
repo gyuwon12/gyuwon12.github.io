@@ -1,10 +1,10 @@
 ---
 layout: page
-title: CoupleGPT
-description: (UNIST) CoupleGPT - Couple Conversion LLM Development and Research, 2024.08. ~ 2025.02
+title: Yeondu Care
+description: Yeondu Care - 2024 Rehabilitation Chatbot Hackathon & The 7th D-tech Contest, Featuring the Motivational AI Chatbot, 2024.07. ~ 2024.11
 img: assets/img/6.jpg
-importance: 3
-category: research
+importance: 1
+category: awards
 ---
 
 Every project has a beautiful feature showcase page.
