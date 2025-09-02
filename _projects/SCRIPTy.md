@@ -3,7 +3,7 @@ layout: page
 title: SCRIPTy
 description: (CJ) SCRIPTy; Development of a LLM Product for Korean Movie/Drama Content Analysis, 2023.11. ~ 2024.02
 img: assets/img/6.jpg
-importance: 1
+importance: 2
 category: research
 ---
 

@@ -3,7 +3,7 @@ layout: page
 title: CoupleGPT
 description: (UNIST) CoupleGPT; Couple Conversion LLM Development and Research, 2024.08. ~ 2025.02
 img: assets/img/6.jpg
-importance: 1
+importance: 3
 category: research
 ---
 
