@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 ---
-<a href="mailto:gyuwon12@unist.ac.kr">[E-mail]</a> <a href="https://github.com/gyuwon12">[Github]</a> <a href="https://drive.google.com/file/d/1gpCe2vM3FvyNsaTKAoNHQkYHLtFZJW2m/view?usp=share_link" target="_blank">[CV]</a>
+<a href="mailto:gyuwon12@unist.ac.kr">[E-mail]</a> <a href="https://github.com/gyuwon12">[Github]</a> <a href="https://drive.google.com/file/d/1i68A5rhhHrjnb9_7CEt1hNWaOwPMeBBi/view?usp=share_link" target="_blank">[CV]</a>
 
 
 Hello, I'm Gyuwon Park, an undergraduate student at Ulsan National Institute of Science and Technology (UNIST), majoring in Computer Science and Engineering.
