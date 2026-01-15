@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: B.S. Student, UNIST
+subtitle: M.S Student @ GSAI, POSTECH \nB.S CSE @ UNIST
 
 profile:
   align: right
