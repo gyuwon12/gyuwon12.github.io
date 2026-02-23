@@ -6,7 +6,7 @@ subtitle: M.S Student, POSTECH <br>B.S, UNIST
 
 profile:
   align: right
-  image: prof_pic.png
+  image: prof_pic_v2.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
     <p> gyuwon12@unist.ac.kr</p>
