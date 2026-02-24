@@ -9,7 +9,7 @@ profile:
   image: prof_pic_v2.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> gyuwon12@unist.ac.kr</p>
+    <p> gyuwonpark@postech.ac.kr</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
