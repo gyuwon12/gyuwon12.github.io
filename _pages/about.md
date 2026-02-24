@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: M.S Student, POSTECH <br>B.S, UNIST
+subtitle: M.S Student, POSTECH
 
 profile:
   align: right
@@ -19,13 +19,10 @@ social: true # includes social icons at the bottom of the page
 <a href="mailto:gyuwon12@unist.ac.kr">[E-mail]</a> <a href="https://github.com/gyuwon12">[Github]</a> <a href="https://drive.google.com/file/d/1i68A5rhhHrjnb9_7CEt1hNWaOwPMeBBi/view?usp=share_link" target="_blank">[CV]</a>
 
 
-Hello, I'm Gyuwon Park, an undergraduate student at Ulsan National Institute of Science and Technology (UNIST), majoring in Computer Science and Engineering.
+Hello, I'm Gyuwon Park, an master student at Pohang University of Science and Technology (POSTECH), advised by [Hyounghun Kim](https://hyounghk.github.io)*.
 
-During my undergraduate years, I have mainly worked on projects and research related to `Language Modeling (LM)`. Through these experiences, I have come to believe in the **practical power of LMs** to address diverse real-world problems. Participating in both academic research and product development, I have witnessed how language models can transform the way we understand and solve complex tasks.
+During my undergraduate years (at UNIST), I have mainly worked on projects and research related to `Language Modeling (LM)`. Through these experiences, I have come to believe in the **practical power of LMs** to address diverse real-world problems. Participating in both academic research and product development, I have witnessed how language models can transform the way we understand and solve complex tasks.
 
 Beyond technical contributions, I pursue a broader vision: tackling societal and human-centered challenges with AI. I am particularly interested in making AI systems more **human-like** in terms of perception and reasoning, and in addressing the challenges that arise from the **complexity of multi-cross modality**. My goal is to explore how LMs—and AI more generally—can evolve into systems that align more closely with human values, understanding, and creativity.
-
-While my CV presents the factual record of my experiences, this page also reflects the personal motivation behind them: I am someone who wants to `chase difficult problems` in our society and contribute to solutions that matter.  
-In addition to my CV, you can also find **previous project postings** (see [projects](https://gyuwon12.github.io/projects/)) and research updates throughout this website!
 
 ---
