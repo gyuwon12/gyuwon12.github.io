@@ -25,4 +25,5 @@ During my undergraduate years (at UNIST), I have mainly worked on projects and r
 
 Beyond technical contributions, I pursue a broader vision: tackling societal and human-centered challenges with AI. I am particularly interested in making AI systems more **human-like** in terms of perception and reasoning, and in addressing the challenges that arise from the **complexity of multi-cross modality**. My goal is to explore how LMs—and AI more generally—can evolve into systems that align more closely with human values, understanding, and creativity.
 
+
 ---
