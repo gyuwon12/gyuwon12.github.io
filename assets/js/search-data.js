@@ -389,7 +389,7 @@ ninja.data = [{
           section: "News",},{id: "news-my-paper-do-vision-language-models-understand-visual-persuasiveness-has-been-accepted-to-the-neurips-2025-workshop-on-vlm4rwd-see-you-mexico-city",
           title: 'My paper “Do Vision-Language Models Understand Visual Persuasiveness?” has been accepted to the...',
           description: "",
-          section: "News",},{id: "news-excited-to-share-that-i-have-been-accepted-into-the-master-s-program-at-postech-graduate-school-of-artificial-intelligence-gsai-starting-in-spring-2026-i-ll-be-joining-the-nlp-group-advised-by-prof-hyounghun-kim",
+          section: "News",},{id: "news-excited-to-share-that-i-have-been-accepted-into-the-master-s-program-at-postech-graduate-school-of-artificial-intelligence-gsai-starting-in-spring-2026-i-ll-be-joining-the-language-amp-amp-intellignec-lab-under-postech-nlp-group-advised-by-prof-hyounghun-kim",
           title: 'Excited to share that I have been accepted into the Master’s program at...',
           description: "",
           section: "News",},{id: "projects-project-1",
