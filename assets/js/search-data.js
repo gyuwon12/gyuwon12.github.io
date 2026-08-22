@@ -383,10 +383,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-my-first-webpage-open",
-          title: 'My First Webpage Open!',
-          description: "",
-          section: "News",},{id: "news-my-paper-do-vision-language-models-understand-visual-persuasiveness-has-been-accepted-to-the-neurips-2025-workshop-on-vlm4rwd-see-you-mexico-city",
+            },},{id: "news-my-paper-do-vision-language-models-understand-visual-persuasiveness-has-been-accepted-to-the-neurips-2025-workshop-on-vlm4rwd-see-you-mexico-city",
           title: 'My paper “Do Vision-Language Models Understand Visual Persuasiveness?” has been accepted to the...',
           description: "",
           section: "News",},{id: "news-excited-to-share-that-i-have-been-accepted-into-the-master-s-program-at-postech-graduate-school-of-artificial-intelligence-gsai-starting-in-spring-2026-i-ll-be-joining-the-language-amp-amp-intellignec-lab-under-postech-nlp-group-advised-by-prof-hyounghun-kim",
