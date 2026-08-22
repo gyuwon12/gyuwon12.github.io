@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-11-20 00:00:00-0000
+date: 2026-08-21 00:00:00-0000
 inline: true
 related_posts: false
 ---
 
-Excited to share that I have been accepted into the Master's program at **POSTECH Graduate School of Artificial Intelligence (GSAI)**, starting in Spring 2026! I'll be joining the *[Language & Intellignec Lab](https://sites.google.com/view/language-intelligence-lab)* under *[POSTECH NLP Group](https://nlp.postech.ac.kr)*, advised by *Prof. [Hyounghun Kim](https://hyounghk.github.io)*.
+Excited to share that our paper **“Do Vision-Language Models Understand Visual Persuasiveness? A Diagnosis via Visual Persuasive Factors”** has been accepted to **Findings of EMNLP 2026**! See you in Budapest 🇭🇺

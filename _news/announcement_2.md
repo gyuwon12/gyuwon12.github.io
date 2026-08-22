@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-11-13 00:00:00-0000
+date: 2025-11-20 00:00:00-0000
 inline: true
 related_posts: false
 ---
 
-My paper **"Do Vision-Language Models Understand Visual Persuasiveness?"** has been accepted to the **NeurIPS 2025 Workshop on [VLM4RWD](https://mozhgan91.github.io/vlm4rwd-neurips25-ws/)**! See you Mexico City!!
+Excited to share that I have been accepted into the Master's program at **POSTECH Graduate School of Artificial Intelligence (GSAI)**, starting in Spring 2026! I'll be joining the *[Language & Intellignec Lab](https://sites.google.com/view/language-intelligence-lab)* under *[POSTECH NLP Group](https://nlp.postech.ac.kr)*, advised by *Prof. [Hyounghun Kim](https://hyounghk.github.io)*.
